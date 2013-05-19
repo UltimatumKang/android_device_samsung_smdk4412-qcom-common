@@ -1,1 +1,0 @@
-add_lunch_combo full_smdk4412-qcom-common-userdebug
